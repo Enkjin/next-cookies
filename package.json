@@ -31,6 +31,7 @@
   "author": "Matthew Mueller",
   "license": "MIT",
   "dependencies": {
+    "next-cookies": "^2.0.3",
     "universal-cookie": "^4.0.3"
   },
   "devDependencies": {
